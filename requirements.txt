@@ -1,0 +1,4 @@
+requests==2.31.0
+folium==0.14.0
+shapely==2.0.2
+geopy==2.4.0 
